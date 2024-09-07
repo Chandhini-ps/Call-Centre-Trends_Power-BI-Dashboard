@@ -1,3 +1,2 @@
 # Call-Centre-Trends_Power-BI-Dashboard
-
-Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
